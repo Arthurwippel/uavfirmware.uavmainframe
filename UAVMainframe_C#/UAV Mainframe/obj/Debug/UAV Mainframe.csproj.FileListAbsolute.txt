@@ -1,0 +1,42 @@
+C:\Users\riky\Documents\Visual Studio 2008\Projects\UAV Mainframe\UAV Mainframe\bin\Debug\UAV Mainframe.exe.config
+C:\Users\riky\Documents\Visual Studio 2008\Projects\UAV Mainframe\UAV Mainframe\bin\Debug\UAV Mainframe.exe
+C:\Users\riky\Documents\Visual Studio 2008\Projects\UAV Mainframe\UAV Mainframe\bin\Debug\UAV Mainframe.pdb
+C:\Users\riky\Documents\Visual Studio 2008\Projects\UAV Mainframe\UAV Mainframe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\riky\Documents\Visual Studio 2008\Projects\UAV Mainframe\UAV Mainframe\obj\Debug\UAV_Mainframe.Form1.resources
+C:\Users\riky\Documents\Visual Studio 2008\Projects\UAV Mainframe\UAV Mainframe\obj\Debug\UAV_Mainframe.Properties.Resources.resources
+C:\Users\riky\Documents\Visual Studio 2008\Projects\UAV Mainframe\UAV Mainframe\obj\Debug\UAV Mainframe.csproj.GenerateResource.Cache
+C:\Users\riky\Documents\Visual Studio 2008\Projects\UAV Mainframe\UAV Mainframe\obj\Debug\UAV Mainframe.exe
+C:\Users\riky\Documents\Visual Studio 2008\Projects\UAV Mainframe\UAV Mainframe\obj\Debug\UAV Mainframe.pdb
+C:\Users\riky\UAV\Software\UAVMainframe\UAV Mainframe\bin\Debug\UAV Mainframe.exe.config
+C:\Users\riky\UAV\Software\UAVMainframe\UAV Mainframe\obj\Debug\UAV Mainframe.exe
+C:\Users\riky\UAV\Software\UAVMainframe\UAV Mainframe\obj\Debug\UAV Mainframe.pdb
+C:\Users\riky\UAV\Software\UAVMainframe\UAV Mainframe\bin\Debug\UAV Mainframe.exe
+C:\Users\riky\UAV\Software\UAVMainframe\UAV Mainframe\bin\Debug\UAV Mainframe.pdb
+C:\Users\riky\UAV\Software\UAVMainframe\UAV Mainframe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\riky\UAV\Software\UAVMainframe\UAV Mainframe\obj\Debug\UAV_Mainframe.Form1.resources
+C:\Users\riky\UAV\Software\UAVMainframe\UAV Mainframe\obj\Debug\UAV_Mainframe.Properties.Resources.resources
+C:\Users\riky\UAV\Software\UAVMainframe\UAV Mainframe\obj\Debug\UAV Mainframe.csproj.GenerateResource.Cache
+C:\Users\riky\UAV\Software\UAVMainframe\UAV Mainframe\obj\Debug\UAV_Mainframe.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe\UAV Mainframe\bin\Debug\UAV Mainframe.exe.config
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe\UAV Mainframe\obj\Debug\UAV Mainframe.exe
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe\UAV Mainframe\obj\Debug\UAV Mainframe.pdb
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe\UAV Mainframe\bin\Debug\UAV Mainframe.exe
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe\UAV Mainframe\bin\Debug\UAV Mainframe.pdb
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe\UAV Mainframe\obj\Debug\ResolveAssemblyReference.cache
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe\UAV Mainframe\obj\Debug\UAV_Mainframe.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe\UAV Mainframe\obj\Debug\UAV_Mainframe.Form1.resources
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe\UAV Mainframe\obj\Debug\UAV_Mainframe.Properties.Resources.resources
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe\UAV Mainframe\obj\Debug\UAV Mainframe.csproj.GenerateResource.Cache
+C:\Users\riky\uavfirmware\trunk\Software\UAVMainframe\UAV Mainframe\bin\Debug\UAV Mainframe.exe.config
+C:\Users\riky\uavfirmware\trunk\Software\UAVMainframe\UAV Mainframe\obj\Debug\UAV Mainframe.exe
+C:\Users\riky\uavfirmware\trunk\Software\UAVMainframe\UAV Mainframe\obj\Debug\UAV Mainframe.pdb
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe_C#\UAV Mainframe\bin\Debug\UAV Mainframe.exe.config
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe_C#\UAV Mainframe\obj\Debug\UAV Mainframe.exe
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe_C#\UAV Mainframe\obj\Debug\UAV Mainframe.pdb
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe_C#\UAV Mainframe\bin\Debug\UAV Mainframe.exe
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe_C#\UAV Mainframe\bin\Debug\UAV Mainframe.pdb
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe_C#\UAV Mainframe\obj\Debug\ResolveAssemblyReference.cache
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe_C#\UAV Mainframe\obj\Debug\UAV_Mainframe.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe_C#\UAV Mainframe\obj\Debug\UAV_Mainframe.Properties.Resources.resources
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe_C#\UAV Mainframe\obj\Debug\UAV Mainframe.csproj.GenerateResource.Cache
+D:\Scuola\T.D.P\uavfirmware\trunk\Software\UAVMainframe_C#\UAV Mainframe\obj\Debug\UAV_Mainframe.Form1.resources
